@@ -6,7 +6,7 @@
 <!-- Use <br> for inserting new lines between images, and use <p align=right> to align them all to the right as a group... -->
 <p align=right>
   <img src="https://github-readme-stats.vercel.app/api?username=liangyuwei&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide=stars"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuwei"/><br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=liangyuwei"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuwei"/><br>
 </p>
 
