@@ -1,7 +1,13 @@
 ### Hello world 👋
 
 
-[![Yuwei Liang's github stats](https://github-readme-stats.vercel.app/api?username=liangyuwei&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+:mortar_board: Pursing MsN
+
+
+[![Yuwei Liang's github stats](https://github-readme-stats.vercel.app/api?username=liangyuwei&show_icons=true&theme=default&count_private=true&hide=starts,prs,issues)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuwei)]()
+
 
 
 <!--
