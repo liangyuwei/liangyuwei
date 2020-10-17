@@ -1,12 +1,11 @@
-### Hello world 👋
 
-
-:mortar_board: Pursing a MASc. at ZJU.
-
++ :mortar_board: Pursing a MASc. at ZJU.
++ :book: Research interest in Motion Retargeting for robots, Imitation Learning, and Dual-arm manipulators.
++ :house: Homepage at [liangyuwei.github.io](https://liangyuwei.github.io/)
 
 <div>
     <img align=right src="https://github-readme-stats.vercel.app/api?username=liangyuwei&show_icons=true&theme=default&count_private=true&include_all_commits=true"/>
-    <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuwei&layout=compact"/>
+    <!--img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuwei&layout=compact"/-->
 <div>
 
 
