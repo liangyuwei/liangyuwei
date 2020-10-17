@@ -1,12 +1,12 @@
 ### Hello world 👋
 
 
-:mortar_board: Pursing MsN
+`:mortar_board: Pursing a MASc. at ZJU.
 
 
-[![Yuwei Liang's github stats](https://github-readme-stats.vercel.app/api?username=liangyuwei&show_icons=true&theme=default&count_private=true&hide=starts,prs,issues)]()
+[![Yuwei Liang's github stats](https://github-readme-stats.vercel.app/api?username=liangyuwei&show_icons=true&theme=default&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuwei)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuwei&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
 
 
 
