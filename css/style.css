@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
+<html>
 <head>
-
 <style>
   .first {
   width: 50%;
@@ -15,13 +15,7 @@
   border: 1px solid #3B6273;
   }
 </style>
-
-<div class="first">
-Left
-</div>
-
-<div class="second">
-Right
-</div>
-
 </head>
+
+</html>
+
