@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<head>
+
+<style>
+  .first {
+  width: 50%;
+  float:left;
+  height: 100px;
+  border: 1px solid #3B6273;
+  }
+  .second {
+  width: 50%;
+  float:left;
+  height: 100px;
+  border: 1px solid #3B6273;
+  }
+</style>
+
+<div class="first">
+Left
+</div>
+
+<div class="second">
+Right
+</div>
+
+</head>
