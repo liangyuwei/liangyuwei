@@ -1,6 +1,6 @@
 + :mortar_board: Pursuing a MASc. at Robotics Lab in ZJU.
 + :book: Research interest in Motion Retargeting for robots, Imitation Learning, and Dual-arm manipulators. 
-+ :house: Homepage at [here](http://www.liangyuwei996.com//)
++ :house: Homepage at [here](http://www.liangyuwei996.com/)
 
 <p align=right>
     <img src="https://liangyuwei-github-readme-stats.vercel.app/api?username=liangyuwei&show_icons=true&theme=default&count_private=true&include_all_commits=true"/><br />
