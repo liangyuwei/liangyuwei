@@ -1,4 +1,4 @@
-+ 💼: Currently working at Geek+ as a software engineer. 
++ :briefcase: Currently working at Geek+ as a software engineer. 
 + :house: Homepage at [here](http://www.liangyuwei996.com/)
 
 <p align=right>
