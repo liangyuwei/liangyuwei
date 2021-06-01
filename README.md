@@ -1,5 +1,4 @@
-+ :mortar_board: Pursuing a MASc. at Robotics Lab in ZJU.
-+ :book: Research interest in Motion Retargeting for robots, Imitation Learning, and Dual-arm manipulators. 
++ 💼: Currently working at Geek+ as a software engineer. 
 + :house: Homepage at [here](http://www.liangyuwei996.com/)
 
 <p align=right>
